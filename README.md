@@ -1,12 +1,13 @@
 # Campaign Manager 360 Block
 
+This is not an officially supported Google product. This project is not eligible for the [Google Open Source Software Vulnerability Rewards Program](https://bughunters.google.com/open-source-security).
+
 <br>
 
 ### Why use the Looker Campaign Manager 360 Block?
 **(1) Rapid Time To Value** - Gain insights from your Campaign Manager 360 (CM 360) data in minutes, not weeks. The CM 360 Block includes pre-built dashboards and content focusing on the ad management system for advertisers and agencies, with analysis around campaign performance, reach and impressions.
 
 **(2) Centralized Place for Analysis** -  No CM 360 access required to do self-service reporting. Plus, you can combine your CM 360 data with other data in your warehouse (e.g. Bitbucket or Github commits) for end-to-end analysis.
-
 
 **(3) Enterprise Data Platform** - Your marketing team can easily build their own dashboards, and any user is equipped to ask and answer their own questions, save and share their own reports. Additionally, you can take advantage of Looker’s advanced scheduling functionality to get Alerts whenever workflows are disrupted. Using our Data Health Check dashboard within the block you can monitor redacted User IDs within CM 360.
 
